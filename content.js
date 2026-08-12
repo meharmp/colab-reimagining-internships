@@ -1,6 +1,6 @@
 // ============================================================================
 // SITE CONTENT & CONFIG
-// Every placeholder (draft links, gallery photos, the Google Form URL) lives
+// Every placeholder (draft links, gallery photos, the interest form URL) lives
 // here. Swap values below — no need to touch index.html, styles.css, or
 // script.js.
 // ============================================================================
@@ -8,7 +8,6 @@
 const SITE_CONTENT = {
   // --- Playbook drafts -------------------------------------------------
   // Replace `draftUrl: "#"` with the real link to each draft doc when ready.
-  // Replace with the real link once the final versions are published.
   playbooks: [
     {
       audience: "For Students",
@@ -21,14 +20,14 @@ const SITE_CONTENT = {
       title:
         "How can a college make legitimate internships easier without creating an administrative burden?",
       cover: "assets/covers/cover-faculty.jpg",
-      draftUrl: "#", // PLACEHOLDER: link to the faculty/college draft playbook
+      draftUrl: "https://docs.google.com/document/d/19__FezQHssv5SPFHDszJ9CPzPfOtg33pMr4PFptUE1k/preview",
     },
     {
       audience: "For Companies",
       title:
         "How can companies create meaningful internships and build an early talent pipeline?",
       cover: "assets/covers/cover-companies.jpg",
-      draftUrl: "#", // PLACEHOLDER: link to the companies draft playbook
+      draftUrl: "https://docs.google.com/document/d/13K7ID4EkTu0N69TPhas1vy0JkRqSHXCnw-n9o5yFh3Q/preview",
     },
   ],
 
@@ -45,9 +44,7 @@ const SITE_CONTENT = {
   ],
 
   // --- Email capture -------------------------------------------------------
-  // Replace with the real Google Form URL that collects emails for the
-  // final playbooks.
-  googleFormUrl: "#", // PLACEHOLDER: Google Form URL
+  interestFormUrl: "https://airtable.com/appghdcg2qiDz7Mb8/shrJASeEU5CVwVPAI",
 
   // --- Contact / footer ----------------------------------------------------
   contact: {

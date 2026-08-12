@@ -1,5 +1,5 @@
 // Renders dynamic sections from SITE_CONTENT (see content.js).
-// Edit content.js to change photos, playbook links, or the Google Form URL —
+// Edit content.js to change photos, playbook links, or the interest form URL —
 // this file should not need touching for routine content updates.
 
 document.addEventListener("DOMContentLoaded", () => {
@@ -49,7 +49,7 @@ function renderPlaybooks() {
 
 function wireNotifyButton() {
   const btn = document.getElementById("notify-btn");
-  if (btn) btn.href = SITE_CONTENT.googleFormUrl;
+  if (btn) btn.href = SITE_CONTENT.interestFormUrl;
 }
 
 function wireFooter() {

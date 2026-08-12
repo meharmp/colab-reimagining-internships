@@ -5,7 +5,7 @@ Plain HTML/CSS/JS — no build step.
 
 ## Editing content
 
-All swappable content — draft playbook links, the Google Form URL, and the
+All swappable content — draft playbook links, the interest form URL, and the
 photo gallery — lives in [`content.js`](content.js). Edit that file only for
 routine updates; `index.html`, `styles.css`, and `script.js` shouldn't need
 to change.
