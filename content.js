@@ -13,21 +13,21 @@ const SITE_CONTENT = {
       audience: "For Students",
       title: "How Students Can Access Meaningful Internships",
       cover: "assets/covers/cover-students.jpg",
-      draftUrl: "#", // PLACEHOLDER: link to the student draft playbook
+      draftUrl: "https://docs.google.com/document/d/1AFmZEARuqMPmCVHsoF6QQS0vlw5TsgZ1CaMQJL0Tl9Y/preview",
     },
     {
       audience: "For Faculty & Colleges",
       title:
         "How can a college make legitimate internships easier without creating an administrative burden?",
       cover: "assets/covers/cover-faculty.jpg",
-      draftUrl: "https://docs.google.com/document/d/19__FezQHssv5SPFHDszJ9CPzPfOtg33pMr4PFptUE1k/preview",
+      draftUrl: "https://docs.google.com/document/d/1XuqxxdoIRqRRxAkeIPnXvOMKt4op-rZpVUpPc37O398/preview",
     },
     {
       audience: "For Companies",
       title:
         "How can companies create meaningful internships and build an early talent pipeline?",
       cover: "assets/covers/cover-companies.jpg",
-      draftUrl: "https://docs.google.com/document/d/13K7ID4EkTu0N69TPhas1vy0JkRqSHXCnw-n9o5yFh3Q/preview",
+      draftUrl: "https://docs.google.com/document/d/1A_GdPz5Za-ZcwiBIIClFV_in5WgjwogRWXV6XyUaB9w/preview",
     },
   ],
 
